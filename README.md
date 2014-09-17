@@ -82,7 +82,7 @@ Step 8 is more setup, again via the community.  **LOOK AROUND!**  Many of the se
 Step 9
 -------
 
-Step 9 is merely a reminder:  Whatever you are doing could be done better.  From deleted code from between brackets to navigating from line 10 to 43 and deleting the third word, there's a command for that.  Commands like... `dap` --meaning, "delete a paragraph".  Or `ci"`, "change and insert between quotes".  See how they flow?  Everything has a sort of mnemonic quality to it that assists in memorizing.  And these commands can be combined spelling sentences of operation.  Genius.  So remember, whatever it is you are doing could be done better, and if what you want to do can't be accomplished in two to three commands, google it.  It exists.
+Step 9 is merely a reminder:  whatever you are doing could be done better.  From deleting code from in between brackets to navigating from line 10 to 43 and deleting the third word, there's a command for that.  Commands like... `dap` --meaning, "delete a paragraph".  Or `ci"`, "change and insert between quotes".  See how they flow?  Everything has a sort of mnemonic quality to it that assists in memorizing.  And these commands can be combined spelling sentences of operation.  Genius.  So remember, whatever it is you are doing could be done better, and if what you want to do can't be accomplished in two to three commands, google it.  It exists.
 
 Step 10
 -------
