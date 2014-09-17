@@ -97,7 +97,7 @@ Step 11 is the final step, when you abandon your default terminal Vim and downlo
 (And one last parting thought)
 ------------------------------
 
-Try to learn a new language or framework while also learning Vim.  When I started at my most recent job I was tasked with learning Rails.  From previous quick-learning experience which didn't seem to stick, I realized that if I didn't really know my editor -- and really, couldn't even type -- I also couldn't touch-type text off of tutorials or out of books.  It forced me to really look and try to understand what I *doing*, since the doing was no longer being accomplished by automatic-memory.  And so far, the experiment has been remarkably productive in ways I couldn't even imagine.  I feel like this is THE way to learn a new language.
+Try to learn a new language or framework while also learning Vim.  When I started at my most recent job I was tasked with learning Rails.  From previous quick-learning experience which didn't seem to stick, I realized that if I didn't really know my editor -- and really, couldn't even type -- I also couldn't touch-type text off of tutorials or out of books.  It forced me to really look and try to understand what I *doing*, since the doing was no longer being accomplished by automatic-memory.  And so far, the experiment has been remarkably productive in ways I couldn't even imagine.  I feel like this is **the** way to learn a new language.  Too bad it can only happen once :/
 
 ---
 
