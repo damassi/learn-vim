@@ -55,7 +55,7 @@ set wildmenu                       " better command line completion, shows a lis
 nnoremap gb :buffers<CR>:sb<Space> " quick buffer navigation
 ```
 
-While providing his example as a good bare minimum, s/he notes, *"Taking someone else's vimrc whole sale is the second worst thing you could do as a beginner. The worst thing would be to use a distribution like janus or spf13: stay away!"*
+While providing the above example as a good bare minimum, s/he notes, *"Taking someone else's vimrc whole sale is the second worst thing you could do as a beginner. The worst thing would be to use a distribution like janus or spf13: stay away!"*
 
 Heed this warning and build your configuration file from scratch.  Initially, in my excitement, I tried to jump a few steps and found Square's post about their Vim distribution ([Fly Vim First Class](http://corner.squareup.com/2013/08/fly-vim-first-class.html)) and after installing it had absolutely no clue -- like no clue whatsoever -- how to use it.  Oops!  Back to Sublime Text.  Don't do this.
 
