@@ -69,10 +69,10 @@ Next, you need to ask yourself what the most important features of your current 
 - [NERDTree](https://github.com/scrooloose/nerdtree), which provides a docked sidebar for navigating your filesystem
 - [GitGutter](https://github.com/airblade/vim-gitgutter) for seeing which lines have changed during editing
 - [ColorSchemes](https://github.com/flazz/vim-colorschemes) for making my editing environment look good
-- [CtrlP](kien/ctrlp.vim) for fuzzy-finding files within my project directory
-- [Syntastic](scrooloose/syntastic.git) for doing runtime error and syntax checking
-- [YouCompleteMe](Valloric/YouCompleteMe) for autocomplete; and
-- [Airline](bling/vim-airline.git) for completing my editing environment with tabs (which are really buffers) as well as color highlighting of different modes via status-bars.  This, in my opinion, is the single most important addition to my Vim setup as it *really* allowed me to see what was going on and I would recommend everyone install it immediately.
+- [CtrlP](https://github.com/kien/ctrlp.vim) for fuzzy-finding files within my project directory
+- [Syntastic](https://github.com/scrooloose/syntastic) for doing runtime error and syntax checking
+- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) for autocomplete; and
+- [Airline](https://github.com/bling/vim-airline) for completing my editing environment with tabs (which are really buffers) as well as color highlighting of different modes via status-bars.  This, in my opinion, is the single most important addition to my Vim setup as it *really* allowed me to see what was going on and I would recommend everyone install it immediately.
 
 Step 8
 ------
