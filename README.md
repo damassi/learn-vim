@@ -101,7 +101,7 @@ Try to learn a new language or framework while also learning Vim.  When I starte
 
 ---
 
-That's it.  Go forth!  And for those who are curious, my `.vimrc` file is [located here](https://github.com/damassi/dotfiles/blob/master/.vimrc) and should provide a good amount of direction for some of the common tasks normally expected from out of the box editors like Sublime Text.
+That's it.  Go forth!  And for those who are curious, my `.vimrc` file is [located here](https://github.com/damassi/dotfiles/blob/master/.vimrc) and should provide a good amount of direction for some of the common tasks normally expected out of the box from editors like Sublime Text.
 
 Hope this provides some clarity, and remember: regardless of the initial confusion and difficulty in getting started, you're making your future developer self immensely more productive by diving in and taking the plunge.  Seriously.  I'm just a few weeks in right now and I can positively say that learning Vim has been the best work-related decision of my life.  It's fun, and in the strangest of ways it **makes you think better**.
 
