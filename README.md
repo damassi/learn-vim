@@ -1,4 +1,4 @@
-The 10 Steps to Learning Vim
+The 11 Steps to Learning Vim
 ============================
 
 *"I used to like coding. It’s fun to see numbers and letters turn into something so much more. But now, thanks to Vim, I love coding. Have you ever dreamt you could fly? There’s nothing like it, but you can have a taste of it when you code with Vim."*
@@ -82,12 +82,17 @@ Step 8 is more setup, again via the community.  **LOOK AROUND!**  Many of the se
 Step 9
 -------
 
-By Step 9 you should be editing code and feeling more comfortable.  This is when the note-taking should begin.  Mac OSX ships with Notes, a simple app for jotting down your thoughts, but there are any number of apps that can accomplish similar tasks.  What I did was begin recording Vim commands that I knew I should know, or will soon need to know, and at the beginning of each workday I would revisit and practice what I learned the day before.  It's incredible how much you can learn simply by taking a note, trying it a few times, sleeping on it, and then revisiting it in the morning.  This becomes your "cheatsheet".  Once I got into this habit all of the essential key-commands were learned pretty much immediately.  I can't emphasize how important it is to do this!  Do it, and keep it open in your second monitor.
+Step 9 is merely a reminder:  Whatever you are doing could be done better.  From deleted code from between brackets to navigating from line 10 to 43 and deleting the third word, there's a command for that.  Commands like... `dap` --meaning, "delete a paragraph".  Or `ci"`, "change and insert between quotes".  See how they flow?  Everything has a sort of mnemonic quality to it that assists in memorizing.  And these commands can be combined spelling sentences of operation.  Genius.  So remember, whatever it is you are doing could be done better, and if what you want to do can't be accomplished in two to three commands, google it.  It exists.
 
 Step 10
 -------
 
-Step 10 is the final step, when you abandon your default terminal Vim and download MacVim, which is faster, a stand alone app, and will complete the cycle:  `brew install macvim --override-system-vim`.  From the command-line, launch it via `mvim` instead of `vim`.  This will bring some of the niceties of more conventional editors back into your environment like speed, stability, draggable window panes, the scroll-wheel, and so on.
+By Step 9 you should be editing code and feeling more comfortable.  This is when the note-taking should begin.  Mac OSX ships with Notes, a simple app for jotting down your thoughts, but there are any number of apps that can accomplish similar tasks.  What I did was begin recording Vim commands that I knew I should know, or will soon need to know, and at the beginning of each workday I would revisit and practice what I learned the day before.  It's incredible how much you can learn simply by taking a note, trying it a few times, sleeping on it, and then revisiting it in the morning.  This becomes your "cheatsheet".  Once I got into this habit all of the essential key-commands were learned pretty much immediately.  I can't emphasize how important it is to do this!  Do it, and keep it open in your second monitor.
+
+Step 11
+-------
+
+Step 11 is the final step, when you abandon your default terminal Vim and download MacVim, which is faster, a stand alone app, and will complete the cycle:  `brew install macvim --override-system-vim`.  From the command-line, launch it via `mvim` instead of `vim`.  This will bring some of the niceties of more conventional editors back into your environment like speed, stability, draggable window panes, the scroll-wheel, and so on.
 
 ---
 
