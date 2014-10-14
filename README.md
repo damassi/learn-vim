@@ -92,7 +92,7 @@ By Step 9 you should be editing code and feeling more comfortable. This is when 
 Step 11
 -------
 
-Step 11 is the final step, when you abandon your default terminal Vim and download MacVim, which is faster, a stand alone app, and will complete the cycle: `brew install macvim --override-system-vim`. From the command line, launch it via mvim instead of vim. This will bring some of the niceties of more conventional editors back into your environment like speed, stability, draggable window panes, the scroll wheel, and so on.
+Step 11 is the final step, when you abandon your default terminal Vim and download MacVim, which is faster, a stand alone app, and will complete the cycle: `brew install macvim --override-system-vim`. From the command line, launch it via `mvim` instead of `vim`. This will bring some of the niceties of more conventional editors back into your environment like speed, stability, draggable window panes, the scroll wheel, and so on.
 
 (And one last parting thought)
 ------------------------------
