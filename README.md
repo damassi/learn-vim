@@ -20,7 +20,7 @@ Step 2 is to think about your text editor for a second. Like really think about 
 Step 3
 ------
 
-Step 3 is recognizing that learning Vim is much more than just not having to learn other systems or adapt to change. Vim is a way of thinking about editing text that is much more precise and more focused than other systems. The subtitle of the book Practical Vim says it all: "Edit Text at the Speed of Thought." Thought—how does visual perception work? You sense something in the periphery that you want to focus on and your eyes move toward it. By the time you've focused you've already had a thought about it, and by the time you've had a chance to observe you've already reached some conclusions. Vim is the same way, but with the added benefit of being able to act. (Unfortunately you can't move bird two trees over, three branches up!) It allows the user a pinpoint precision that mirrors the way we already perceive things in the physical world but with an immediate ability to manipulate the subject at hand. As you get more proficient you find there are no more intermediary steps; you think and the change occurs, literally.
+Step 3 is recognizing that learning Vim is much more than just not having to learn other systems or adapt to change. Vim is a way of thinking about editing text that is much more precise and more focused than other systems. The subtitle of the book Practical Vim says it all: "Edit Text at the Speed of Thought." Thought—how does visual perception work? You sense something in the periphery that you want to focus on and your eyes move toward it. By the time you've focused you've already had a thought about it, and by the time you've had a chance to observe you've already reached some conclusions. Vim is the same way, but with the added benefit of being able to act. (Unfortunately you can't `move bird two trees over, three branches up`!) It allows the user a pinpoint precision that mirrors the way we already perceive things in the physical world but with an immediate ability to manipulate the subject at hand. As you get more proficient you find there are no more intermediary steps; you think and the change occurs, literally.
 
 Step 4
 ------
@@ -30,7 +30,7 @@ Step 4 is about learning from others, and particularly the doubters. Read this p
 Step 5
 ------
 
-Step 5 is to begin your quest. **THIS IS IMPORTANT!** Open up your terminal and type in vimtutor. All of the basics are covered here, particularly navigation —h, j, k and l. It will feel weird, but complete it. And then after, open up a text document and practice navigating around changing words. Like I said in Step 1, being able to navigate in the most basic of ways serves to break the fear. It will empower you to continue learning. You cannot learn to run without knowing how to walk. Those four commands are the most important.
+Step 5 is to begin your quest. **THIS IS IMPORTANT!** Open up your terminal and type in `vimtutor`. All of the basics are covered here, particularly navigation —h, j, k and l. It will feel weird, but complete it. And then after, open up a text document and practice navigating around changing words. Like I said in Step 1, being able to navigate in the most basic of ways serves to break the fear. It will empower you to continue learning. You cannot learn to run without knowing how to walk. Those four commands are the most important.
 
 Step 6
 ------
