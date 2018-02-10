@@ -25,7 +25,7 @@ Step 3 is recognizing that learning Vim is much more than just not having to lea
 Step 4
 ------
 
-Step 4 is about learning from others, and particularly the doubters. Read this post by the one and only Yehuda Katz, who tried, failed, and then realized he was simply looking at it from the wrong angle, [Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/), as well as this post from Jon Beltran de Heredia, which fills in the details and provides a few concrete examples: [Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html)
+Step 4 is about learning from others, and particularly the doubters. Read this post by Yehuda Katz, who tried, failed, and then realized he was simply looking at it from the wrong angle, [Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/), as well as this post from Jon Beltran de Heredia, which fills in the details and provides a few concrete examples: [Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html)
 
 Step 5
 ------
